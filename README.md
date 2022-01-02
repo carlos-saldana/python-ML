@@ -6,3 +6,6 @@ CÓDIGO INTRODUCTORIO A MACHINE LEARNING CON PYTHON
 2. Regresión lineal.
 3. Regresión logística.
 4. Árboles de decisión.
+5. Clustering.
+6. Support Vector Machine.
+7. K Nearest Neighbors.
